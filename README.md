@@ -42,9 +42,9 @@
     ```bash
     cd leon-agency-template
     ```
-3. Open the `index.html` file in your browser to view the template:
+3. Open the `(https://abdelrahman9786.github.io/Leon/)` file in your browser to view the template:
     ```bash
-    open index.html
+    open (https://abdelrahman9786.github.io/Leon/)
     ```
 
 ## Usage
