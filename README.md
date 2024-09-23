@@ -1,3 +1,4 @@
+
 # Leon - Creative & Minimal Agency Web Template
 
 **Leon** is a responsive, modern, and minimalistic web template designed for creative agencies and freelancers. It offers a clean design to showcase your services, portfolio, and creative work, making it ideal for web developers, graphic designers, and creative professionals.
@@ -42,9 +43,9 @@
     ```bash
     cd leon-agency-template
     ```
-3. Open the `(https://abdelrahman9786.github.io/Leon/)` file in your browser to view the template:
+3. Open the `index.html` file in your browser to view the template:
     ```bash
-    open (https://abdelrahman9786.github.io/Leon/)
+    open index.html
     ```
 
 ## Usage
@@ -64,3 +65,21 @@ leon-agency-template/
 ├── /images              # Images used in the project
 │   └── your-images.jpg  # Replace with your own images
 └── README.md            # This README file
+```
+
+## Live Demo
+
+Check out the live demo of the **Leon Agency Template** here:
+
+[Live Demo Link](https://abdelrahman9786.github.io/Leon/)
+
+## Contributing
+
+Feel free to fork this repository and submit pull requests. Any contributions to improve the design or functionality are welcome!
+
+
+
+---
+
+**Author**: AbdElRahman  
+**Email**: abdelrahmanahmed9267@gmail.com
