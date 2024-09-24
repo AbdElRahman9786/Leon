@@ -14,10 +14,10 @@
 
 ## Technologies Used
 
-- **HTML5**: Markup structure.
-- **CSS3**: For styling and responsive design.
-- **FontAwesome**: For icons.
-- **Google Fonts**: For typography (Work Sans).
+- <i class="fab fa-html5"></i> **HTML5**: Markup structure.
+- <i class="fab fa-css3-alt"></i> **CSS3**: For styling and responsive design.
+- <i class="fab fa-font-awesome"></i> **FontAwesome**: For icons.
+- <i class="fab fa-google"></i> **Google Fonts**: For typography (Work Sans).
 
 ## Sections Overview
 
@@ -36,17 +36,17 @@
 ## Installation
 
 1. Clone the repository:
-    ```bash
+    \`\`\`bash
     git clone https://github.com/your-username/leon-agency-template.git
-    ```
+    \`\`\`
 2. Navigate into the project directory:
-    ```bash
+    \`\`\`bash
     cd leon-agency-template
-    ```
+    \`\`\`
 3. Open the `index.html` file in your browser to view the template:
-    ```bash
+    \`\`\`bash
     open index.html
-    ```
+    \`\`\`
 
 ## Usage
 
@@ -56,7 +56,7 @@
 
 ## Folder Structure
 
-```bash
+\`\`\`bash
 leon-agency-template/
 │
 ├── index.html           # Main HTML file
@@ -65,7 +65,7 @@ leon-agency-template/
 ├── /images              # Images used in the project
 │   └── your-images.jpg  # Replace with your own images
 └── README.md            # This README file
-```
+\`\`\`
 
 ## Live Demo
 
@@ -77,9 +77,15 @@ Check out the live demo of the **Leon Agency Template** here:
 
 Feel free to fork this repository and submit pull requests. Any contributions to improve the design or functionality are welcome!
 
-
-
 ---
 
 **Author**: AbdElRahman  
 **Email**: abdelrahmanahmed9267@gmail.com
+
+---
+
+Make sure you add the following CDN link to your `index.html` to render the FontAwesome icons:
+
+\`\`\`html
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+\`\`\`
