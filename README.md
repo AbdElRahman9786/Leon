@@ -84,8 +84,4 @@ Feel free to fork this repository and submit pull requests. Any contributions to
 
 ---
 
-Make sure you add the following CDN link to your `index.html` to render the FontAwesome icons:
 
-\`\`\`html
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-\`\`\`
